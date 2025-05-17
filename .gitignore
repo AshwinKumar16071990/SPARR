@@ -1,0 +1,22 @@
+# Node and build artifacts (if any)
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Other
+*.swp
+*.swo
